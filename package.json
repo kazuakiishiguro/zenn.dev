@@ -1,0 +1,10 @@
+{
+  "author": "Kazuaki Ishiguro <kazuakiishiguro@protonmail.com>",
+  "scripts": {
+    "preview": "npx zenn preview"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.95"
+  },
+}
